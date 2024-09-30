@@ -1,8 +1,8 @@
 #1
-print(" Hello Enter your  name: ")
+print(" Hello Enter your  full_name: ")
 
 #2
-print(" Hello Enter your adress: ")
+print(" Hello Enter your home_adress: ")
 
 
 
@@ -10,4 +10,4 @@ print(" Hello Enter your adress: ")
 name = "Name" 
 print(" Hello " , name ," How are you: " )
 """
-print('My name is Tal and I am from Shaarei Tikva')
+print('My name is yael and I am from lapid')
